@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Write a script that uses a while loop to calculate the factorial of 1000.
+# 5. Write a script that uses a while loop to calculate the factorial of 1000.
 
 numero = 1
 fatorial = 1
